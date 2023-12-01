@@ -4,3 +4,4 @@ This is a good blank for implementing various design ideas.
 Also adapted the animation for different devices!
 Thank you!
 Bro
+man
